@@ -43,7 +43,7 @@
     {
      "type": 2,
      "style": 4,
-     "label": "Close",
+     "label": "Fechar",
      "custom_id": "close",
      "emoji": {
       "name": "🇽"
