@@ -1,0 +1,140 @@
+{
+ "content": null,
+ "embeds": [
+  {
+   "title": "Strike Policy",
+   "description": [
+    "- Users have to abide to a 3 strike policy, in which:",
+    "1 Strike = Mute for a day.",
+    "2 Strike = Mute for a week.",
+    "3 Strike = Ban for a month.",
+    "4 Strike = Perma-ban.",
+    "- Strikes takes two months to be forgotten."
+   ],
+   "fields": null
+  },
+  {
+   "title": "Platform Terms:",
+   "description": "When using Discord you must adhere to Community Guidelines and Terms of Service of Discord.",
+   "color": "#62a0ea",
+   "fields": null
+  },
+  {
+   "title": "Community Rules 1/2:",
+   "description": [
+    "- **Good Denizen**",
+    "",
+    "Be respectful to everyone in chats, discussions and voice channels, independently of political, social or religious views. Criticism and debates are good, but keep moderation in mind.",
+    "",
+    "- **Multi-Lingual Community**",
+    "",
+    "This is an American server (continent) and multiple languages are welcome, but keep discussions on their designated chats. Short interactions are welcome.",
+    "",
+    "- **Clean Ambient**",
+    "",
+    "Keep topics in their respective channels. Short interactions are welcome."
+   ],
+   "color": "#0099ff",
+   "fields": null
+  },
+  {
+   "title": "NSFW Rule:",
+   "description": [
+    "- **Semi-NSFW**",
+    "",
+    "NSFW content are permitted in the designated chats as long as they abide by Community Guidelines. Artistic nudity (With no genitalia) and mature themes are allowed, but erotic content or content that depicts or promotes illegal content (e.g.: minors, rape, extreme gore or hate imagery) are strictly prohibited.",
+    "",
+    "Following this rule, every individual younger than 18 years old is prohibited from participating in this server.",
+    "",
+    "The moderation team has the right do remove any content if necessary."
+   ],
+   "color": "#ff0000",
+   "fields": null
+  },
+  {
+   "title": "Community Rules 2/2:",
+   "description": [
+    " - **This is the Web**",
+    "",
+    "This a space apart from real world. As such, no heavy or personal issues or drama are welcomed.",
+    "",
+    "Personal & sensitive info sharing is also not allowed as to not facilitate real life endangerment. If help is needed, seek close friends, family or specialists.",
+    "",
+    " - **Safe Links**",
+    "",
+    "Link domains other than a select few are flagged and auto-moderated.",
+    "",
+    "- **No Conman's Land**",
+    "",
+    "Suspicious or otherwise malicious activity are not allowed within or off the server (\"off\" as in: facilitaded through the server). Guilt-tripping and impersonation are also considered as \"malicious\".",
+    "",
+    "- **Not a Market**",
+    "",
+    "For sales, please seek the professional's socials.",
+    "",
+    "- **Limited Media**",
+    "",
+    "Unless explicitly allowed, advertisemente to other outlets are forbidden.",
+    "",
+    "DM advertisement are completely forbidden.",
+    "",
+    "- **Beggin' no More**",
+    "",
+    "No amount of begging for roles, items, nitros, arts or anything similar that might involve money are welcome.",
+    "",
+    "- **Half-Throttle**",
+    "",
+    "Artificial Intelligence generated images or content are promptly forbidden on art posts. Discussion on it are allowed.",
+    "",
+    "- **Right of Copy**",
+    "",
+    "Credit artists when due (Providing link to original), respect copy-right and do not claim ownership of other's works. **Individuals can request to have their works permanently removed from any direct mention within the server.** (They will be included in the auto-mod link detection.)"
+   ],
+   "color": "#0099ff",
+   "fields": null
+  },
+  {
+   "title": "Community Terms:",
+   "description": "On clicking \"I Read & Accept\" , you confirm being older than 18 years, read and comprehended the community rules, committing to obey them when participating and or interacting with the community. ",
+   "color": "#ff0000",
+   "fields": null,
+   "footer": {
+     "text": "Rule Book v1.0"
+   }
+  }
+ ],
+ "components": [
+  {
+   "type": 1,
+   "components": [
+    {
+     "type": 2,
+     "style": 2,
+     "label": "Return",
+     "custom_id": "wel_back_us",
+     "emoji": {
+      "name": "⬅️"
+     }
+    },
+    {
+     "type": 2,
+     "style": 1,
+     "label": "I Read & Accept",
+     "custom_id": "unlok_us",
+     "emoji": {
+      "name": "☑️"
+     }
+    },
+    {
+     "type": 2,
+     "style": 4,
+     "label": "Close",
+     "custom_id": "close",
+     "emoji": {
+      "name": "🇽"
+     }
+    }
+   ]
+  }
+ ]
+}
