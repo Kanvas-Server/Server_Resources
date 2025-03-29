@@ -1,0 +1,151 @@
+{
+ "content": null,
+ "embeds": [
+  {
+   "title": "Política de Strikes:",
+   "description": [
+    "- Usuários devem seguir a política de 3 strikes, onde:",
+    "1 Strike = Mute de um dia.",
+    "2 Strike = Mute de uma semana.",
+    "3 Strike = Ban de um mês.",
+    "4 Strike = Ban permanente.",
+    "- Strikes expiram após dois meses."
+   ], 
+   "color": "#57e389",
+   "fields": null
+  },
+  {
+   "title": "Termos da plataforma",
+   "description": "Ao usar o Discord, você deve aderir às Diretrizes da Comunidade e os Termos de Serviço do Discord.",
+   "color": "#0099ff",
+   "fields": null
+  },
+  {
+   "title": "Regras da Comunidade 1/2:",
+   "description": [
+    "- **Bom cidadão**",
+    "",
+    "Seja respeitoso com todos nos chats, fórums e canais de voz, independente das visões políticas, sociais ou religiosas. Críticas e debates são bem-vindos, mas seja moderado.",
+    "",
+    "- **Comunidade Multilíngue**",
+    "",
+    "Este é um servidor Americano (continente) e vários idiomas são bem-vindos, mas mantenha as conversas nos canais designados. Interações breves são permitidas.",
+    "",
+    "- **Lugar Limpo**",
+    "",
+    "Mantenha os tópicos nos canais corretos. Interações breves são permitidas."
+   ],
+   "color": "#57e389",
+   "fields": null
+  },
+  {
+   "title": "Regra NSFW:",
+   "description": [
+    "- **Ambiente Semi-NSFW**",
+    "",
+    "Conteúdos NSFW são permitidos nos chats designados, contanto que obedeçam as Diretrizes da Comunidade. Nudez artística (sem genitália) e temas adultos são permitidos, mas conteúdos eróticos, conteúdos que expressam ou promovem conteúdo ilegal (por exemplo: menores de idade (mesmo que ficcionais ou que apenas tenham o físico), estrupo, gore extremo ou imagem de ódio) é estritamente proibido.",
+    "Seguindo esta regra, todo indivíduo menor de 18 é proibido de participar deste servidor.",
+    "A equipe de moderação tem o direito de remover qualquer conteúdo necessário."
+   ],
+   "color": "#ff0000",
+   "fields": null
+  },
+  {
+   "title": "Regras da Comunidade 2/2:",
+   "description": [
+    "- **Isto é a Internet**",
+    "",
+    "Este é um espaço separado do mundo real. Portanto, questões pessoais ou dramas não são bem-vindos.",
+    "",
+    "Compartilhamento de informações pessoais também não é permitido, para evitar riscos na vida real.",
+    "",
+    "Caso precise de ajuda psicológica, procure amigos próximos, parentes ou especialistas.",
+    "",
+    "- **Links Seguros**",
+    "",
+    "Links de comínios fora de uma lista específica são moderados e deletados automaticamente.",
+    "",
+    "- **Contra-Golpistas**",
+    "",
+    "Atividades suspeitas ou maliciosas não são permitidas dentro ou fora do servidor (\"fora\" como em: facilitado atravéz do servidor.).",
+    "",
+    "Guilt-Trip e se passar por outra pessoa também são consideradas \"atividades maliciosas\".",
+    "",
+    "- **Nada de Feira**",
+    "",
+    "Para vendas, procure as redes sociais dos profissionais.",
+    "",
+    "- **Mídia Limitada**",
+    "",
+    "Exceto quando com permissão explícita, divulgação de outros servidores ou mídias são proibidas.",
+    "",
+    "Divulgação via DM é completamente proibida.",
+    "",
+    "- **Nada de Mendigos**",
+    "",
+    "Não é permitido implorar por cargos, itens, nitros, artes ou qualquer coisa semelhante que possa envolver dinheiro.",
+    "",
+    "- **I.A. a Meio-Vapor**",
+    "",
+    "Imagens ou conteúdos gerados por I.A. são estritamente proibidos em postagens de arte. Discussões sobre o tema são permitidas.",
+    "",
+    "- **Direitos Autorais**",
+    "",
+    "Credite os artistas quando possível (Fornecendo link para o original).",
+    "",
+    "Respeite os direitos autorais e não reivindique obras de outros.",
+    "",
+    "**Indivíduos podem solicitar a remoção permanente de suas obras de qualquer menção direta dentro do servidor.** (Serão incluídos na detecção automática de links.)"
+   ],
+   "color": "#57e389",
+   "fields": null
+  },
+  {
+   "title": "Termos da Comunidade:",
+   "description": [
+    "Ao clicar em \"Li & Aceito\", você confirma ter mais de 18 anos, ter lido e compreendido as regras da comunidade, se comprometendo a obedecer-las ao participar e ou interagir da comunidade.",
+    "",
+    "Ao confirmar, você liberará acesso ao resto da comunidade."
+   ],
+   "color": "#ff0000",
+   "fields": null
+   "footer": {
+     "text": "Livro de Regras v1.0"
+   }
+  }
+ ],
+ "components": [
+  {
+   "type": 1,
+   "components": [
+    {
+     "type": 2,
+     "style": 2,
+     "label": "Voltar",
+     "custom_id": "wel_back_br",
+     "emoji": {
+      "name": "⬅️"
+     }
+    },
+    {
+     "type": 2,
+     "style": 1,
+     "label": "Li & Aceito",
+     "custom_id": "unlok_br",
+     "emoji": {
+      "name": "☑️"
+     }
+    },
+    {
+     "type": 2,
+     "style": 4,
+     "label": "Fechar",
+     "custom_id": "close",
+     "emoji": {
+      "name": "🇽"
+     }
+    }
+   ]
+  }
+ ]
+}
