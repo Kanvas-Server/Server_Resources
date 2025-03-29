@@ -1,0 +1,54 @@
+{
+ "embeds": [
+  {
+   "title": "Welcome to Kanvas' forums!",
+   "description": "Here, artists and coders can post their works to receive feedback and talk to other or to simply log their progress."
+  },
+  {
+   "title": "INTERACTION RULES:",
+   "description": [
+    "- **Keep it in-topic.**",
+    "To avoid going off-topic within the posts, please only talk about the OP's work(s) (Mentioning similarities between separate projects is not a problem, but be a Good Denizen.)",
+    "",
+    "- **Use only tagged languages.**",
+    "Despite being a open forum, the posts are limited to the author's speaking languages, please use only the posts' tagged languages.",
+    "",
+    "- **Be a Good Denizen.**",
+    "Remember to follow the server's wide rules and be a Good Denizen!"
+   ],
+   "color": "#8ff0a4"
+  },
+  {
+   "title": "POSTING RULES:",
+   "description": [
+    "- **One post per topic policy.**",
+    "You have the option to either have one singular post with all of the topics, or have one post per topic, the choice is yours! **(Current post limit: 2)**",
+    "",
+    "- **Front image.** ",
+    "Whenever creating a post, the images that are going to be shown in the forums' front page are obliged to either: **Not be a NSFW** OR ** Be marked as spoiler** (That means: If they are NSFW, they must be marked as a spoiler) (Yes we do know the forum is already +18 gated. But let's keep it clean, shall we?)",
+    "",
+    "- **Follow the NSFW rule.**"
+   ],
+   "footer": {
+    "text": "Forum Rule Book v1.0"
+   },
+   "color": "#99c1f1"
+  }
+ ],
+ "components": [
+  {
+   "type": 1,
+   "components": [
+    {
+     "type": 2,
+     "style": 4,
+     "label": "Close",
+     "custom_id": "close",
+     "emoji": {
+      "name": "🇽"
+     }
+    }
+   ]
+  }
+ ]
+}
