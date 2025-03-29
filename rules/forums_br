@@ -1,0 +1,55 @@
+{
+ "embeds": [
+  {
+   "title": "Bem-vindos aos fórums do Kanvas!",
+   "description": "Aqui, artistas e programadores podem postar seus trabalhos para receber feedback e conversar com os outros, ou simplesmente registrar seu progresso."
+  },
+  {
+   "title": "REGRAS DE INTERAÇÃO:",
+   "description": [
+    "- **Mantenha dentro do tópico.**",
+    "Para evitar ir fora do tópico dentro das postagens, por favor falem apenas sobre o(s) trabalho(s) do autor. (Mencionar similaridades entre trabalhos não pe um problema, mas seja um Bom Cidadão.)",
+    "",
+    "- **Use apenas as línguas marcados.**",
+    "Apesar de ser um fórum aberto, as postagens são limitadas aos idiomas falados pelo autor, por favor use apenas os idiomas marcados.",
+    "",
+    "- **Seja um Bom Cidadão.**",
+    "Lembre-se de seguir as regras do servidor e ser um Bom Cidadão!"
+   ],
+   "color": "#8ff0a4"
+  },
+  {
+   "title": "REGRAS DE POSTAGENS:",
+   "description": [
+    "- **Política de uma postagem por tópico.**",
+    "Você tem a opção de ter uma única postagem com todos os tópicos, ou ter uma postagem por tópico, a escolha é sua! **(Limite atual de postagens: 2)**",
+    "",
+    "- **Thumbnail.** ",
+    "Quando criando uma postagem, imagens que serão exibidas na página frontal do fórum são obrigadas à: **Não serem NSFW** OU **Serem marcadas como spoiler** (Isso quer dizer: Se elas forem NSFW, elas devem ser marcadas como um spoiler.) (Sim, nós sabemos que esse fórum já é exclusivo para +18. Mas vamos manter-lo limpo, vamos?",
+    "",
+    "- **Sigua a regra de NSFW.**",
+    "Lembre-se de seguir as regras do servidor e respeitar os limites NSFW!"
+   ],
+   "footer": {
+    "text": "Forum Rule Book v1.0"
+   },
+   "color": "#99c1f1"
+  }
+ ],
+ "components": [
+  {
+   "type": 1,
+   "components": [
+    {
+     "type": 2,
+     "style": 4,
+     "label": "Close",
+     "custom_id": "close",
+     "emoji": {
+      "name": "🇽"
+     }
+    }
+   ]
+  }
+ ]
+}
